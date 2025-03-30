@@ -94,6 +94,8 @@ Expected results,
 
 ## Run SkyCat 
 
+Similarly, it is possible to simulate the SkyCat drone. 
+
 ![image](https://github.com/user-attachments/assets/43908dab-041c-418b-b2b9-28257b66d989)
 
 Note:
