@@ -52,6 +52,7 @@ source gazebo_exports.sh
 
 ## Run Quadroped
 
+
 Note:
 - IMPORTANT: Run GazeboSim first as it contains the ArduPilot plugin. Later, start the ArduPilot SITL (ArduSub, Rover). Lastly, you can run QGroundControl.
 
@@ -89,6 +90,9 @@ Expected results,
 ![image](https://github.com/user-attachments/assets/f098c7f8-51c9-499f-a96f-4a36c616e2cb)
 
 
+## Extra links
+
+- [IRIS ros2-gazebo](https://ardupilot.org/dev/docs/ros2-gazebo.html#)
 
 ---
 
