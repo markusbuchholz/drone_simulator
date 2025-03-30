@@ -84,7 +84,13 @@ sim_vehicle.py -v ArduCopter -f gazebo-iris --model JSON --console --map
 ```bash
 ./QGroundControl.AppImage
 ```
+Expected results,
 
+![image](https://github.com/user-attachments/assets/f098c7f8-51c9-499f-a96f-4a36c616e2cb)
+
+
+
+---
 
 ## Run SkyCat 
 
