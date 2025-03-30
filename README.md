@@ -75,7 +75,7 @@ sudo docker exec -it marine_robotics_sitl /bin/bash
 
 cd ../ardupilot
 
-sim_vehicle.py -v ArduCopter -f gazebo-iris --model JSON --console 
+sim_vehicle.py -v ArduCopter -f gazebo-iris --model JSON --console --map
 
 ```
 
