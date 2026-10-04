@@ -91,6 +91,7 @@ Expected results,
 
 ## Extra links
 
+- [SITL_Models](https://github.com/ArduPilot/SITL_Models/tree/master)
 - [IRIS ros2-gazebo](https://ardupilot.org/dev/docs/ros2-gazebo.html#)
 - [dronekit](https://dronekit-python.readthedocs.io/en/latest/about/index.html)
 
