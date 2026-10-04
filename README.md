@@ -1,6 +1,6 @@
 # Drone Simulator
 This repository offers a simulation framework designed to evaluate motion control algorithms for drones.
-The framework utilizes GazeboSim, enhanced with realistic marine environment plugins and ArduPilot's Software-in-the-Loop (SITL) mode. <br>
+The framework utilizes GazeboSim, enhanced with realistic marine environment plugins and [ArduPilot's Software-in-the-Loop (SITL)](https://ardupilot.org/dev/docs/sitl-simulator-software-in-the-loop.html) mode. <br>
 ![drone](https://github.com/user-attachments/assets/f632a5d2-2a75-47c8-a1cc-09f20dacc4ea)
 
 
@@ -92,6 +92,7 @@ Expected results,
 ## Extra links
 
 - [SITL_Models](https://github.com/ArduPilot/SITL_Models/tree/master)
+- [Ardupilot SITL](https://ardupilot.org/dev/docs/sitl-simulator-software-in-the-loop.html)
 - [IRIS ros2-gazebo](https://ardupilot.org/dev/docs/ros2-gazebo.html#)
 - [dronekit](https://dronekit-python.readthedocs.io/en/latest/about/index.html)
 
